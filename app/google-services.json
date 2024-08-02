@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170307869556",
+    "project_id": "tohand",
+    "storage_bucket": "tohand.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170307869556:android:97c34ea9af5a5b1c442a21",
+        "android_client_info": {
+          "package_name": "com.example.tohand"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxmDHI6f0vb97yhnzyydvggqbOGv5Kp9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
